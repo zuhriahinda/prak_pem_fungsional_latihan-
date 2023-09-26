@@ -1,1 +1,1 @@
-# prak_pemrograman_fungsional_latihan_1
+# praktikum pemrograman fungsional latihan modul 1
